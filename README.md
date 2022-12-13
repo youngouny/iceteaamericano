@@ -3,4 +3,4 @@
 
 #Author
 -Youngwon KO <uiuiopart@gmail.com>
--like cat
+-like cat, strawberrycake, movie, sea
